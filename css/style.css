@@ -16,6 +16,7 @@ html {
     .container { width: 1100px }
 }
 h1 {
+    color: #333;
     font-weight: 600;
 }
 h1 small { text-transform: lowercase }
@@ -362,13 +363,13 @@ h4.media-heading {
 }
 /* About Us */
 #about {
-    background: #38A5DB;
+    background: #EAEAEA;
     color:#fff;
     padding:80px 0;
 }
 
 #about h1 {
-    color:#fff;
+    color:#333;
     font-size:36px;
     line-height:42px;
     font-weight:300;
@@ -376,10 +377,11 @@ h4.media-heading {
     position:relative;
 }
 #about h2, #about h5 {
-    color:#fff;
+    color:#333;
 
 	}
 #about p {
+    color:#333;
     font-size: 18px;
     line-height:36px;
     font-weight:300;
