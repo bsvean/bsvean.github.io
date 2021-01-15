@@ -1121,7 +1121,7 @@ img {
   border-radius: 6px;
 }
 .img-thumbnail {
-  text-align: center;
+  margin-left: 10%;
   display: block;
   max-width: 80%;
   height: auto;
