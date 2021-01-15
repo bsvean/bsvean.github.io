@@ -350,7 +350,7 @@ a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; co
 .experience:hover i.fa,
 .service:hover i.fa { background-color: #333333 }
 h4.media-heading {
-    margin-top: 0;
+    margin-top: 5px;
     margin-bottom: 5px;
     font-size: 16px;
     font-weight: 400;
