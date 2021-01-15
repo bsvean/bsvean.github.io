@@ -123,6 +123,7 @@ a:focus {
     background-attachment: fixed;
 }
 #home h1 { color: #FFFFFF; line-height: 64px; font-size: 44px;}
+#home h2 { color: #FFFFFF; line-height: 32px; font-size: 22px;}
 .content-heading p.lead { margin-bottom: 80px ; color: #FFF;}
 a.goto-btn {
     font-size: 18px;
