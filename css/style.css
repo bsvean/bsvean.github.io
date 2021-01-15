@@ -122,8 +122,8 @@ a:focus {
     padding: 20% 0;
     background-attachment: fixed;
 }
-#home h1 { color: #FFFFFF; line-height: 64px; font-size: 44px;}
-#home h2 { color: #FFFFFF; line-height: 32px; font-size: 22px;}
+#home h1 { color: #FFFFFF; line-height: 64px; font-size: 50px;}
+#home h2 { color: #FFFFFF; line-height: 32px; font-size: 33px;}
 .content-heading p.lead { margin-bottom: 80px ; color: #FFF;}
 a.goto-btn {
     font-size: 18px;
