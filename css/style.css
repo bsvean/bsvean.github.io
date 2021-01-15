@@ -218,7 +218,7 @@ a.goto-btn:hover {
 /* Home Section Style 4 - App Header Style*/
 #home.app .overlay { padding: 10% 0 5% 0 }
 #home.app {background: url(../img/bg/02.jpg);}
-a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; color: #fff;}
+a.goto-btn { margin-right: 0 ; border: #fff 1px solid; padding: 12px 18px; color: #fff;}
 .ipad-wrapper .app-wrap {
     position: relative;
     width: 395px;
