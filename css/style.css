@@ -123,7 +123,7 @@ a:focus {
     background-attachment: fixed;
 }
 #home h1 { color: #FFFFFF; line-height: 64px; font-size: 60px;}
-#home h2 { color: #FFFFFF; line-height: 25px; font-size: 40px;}
+#home h2 { color: #FFFFFF; line-height: 25px; font-size: 40px; font-weight: 200;}
 .content-heading p.lead { margin-bottom: 80px ; color: #FFF;}
 a.goto-btn {
     font-size: 18px;
@@ -285,12 +285,7 @@ a.goto-btn { margin-right: 0 ; border: #fff 1px solid; padding: 12px 18px; color
 }
 /* Service Section */
 #whatIdo { padding: 60px 0 ; background-color: #fff; color: #909090;}
-
-#whatIdo h2 {
-    color:#333;
-
-	}
-
+#whatIdo h2 {color:#333; font-weight: 300;}
 .section-header {
     padding: 40px 0;
     text-align: center;
@@ -383,10 +378,7 @@ h4.media-heading {
     margin-bottom:24px;
     position:relative;
 }
-#about h2, #about h5 {
-    color:#333;
-
-	}
+#about h2, #about h5 {color:#333; font-weight: 300;}
 #about p {
     color:#333;
     font-size: 18px;
@@ -618,6 +610,7 @@ ul.features li span.fa {
 }
 /* Portfolio or works blocks */
 #works { padding: 60px 0 ;background-color: #fff;}
+#works h2 {color:#333; font-weight: 300;}
 ul.cat { margin: 30px 0 }
 ul.cat li a {
     background: inherit;
@@ -808,6 +801,7 @@ ul.cat li a.active {
 .work-related-thumb .img-thumbnail:hover { opacity: 0.8 }
 /* experience Section */
 #experience { padding: 60px 0 }
+#experience h2 {color:#333; font-weight: 300;}
 .experience i.fa {
     text-align: center;
     font-size: 30px;
@@ -953,6 +947,7 @@ ul.metas li a { color: #38A5DB }
 /* Map Section
 **********************************/
 #contact { padding: 60px 0 ; background-color: #EAEAEA;}
+#contact h2 {color:#333; font-weight: 300;}
 #map {
     position: relative;
     width: 100%;
