@@ -307,7 +307,7 @@ a.goto-btn { margin-right: 0 ; border: #fff 1px solid; padding: 12px 18px; color
     content: "";
     position: absolute;
     height: 5px;
-    border-bottom: 1px solid #E4E4E4;
+    border-bottom: 1px solid #cccccc;
     top: 15px;
     width: 400px;
 }
